@@ -6,18 +6,18 @@ Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, conto
 Best Regards
 
 <p align="center">
-<img src="https://telegra.ph/file/1537b118bad59ab8fa15e.png" alt="Adrian-MD" width="500"/>
+<img src="https://telegra.ph/file/1537b118bad59ab8fa15e.png" alt="FARISMODS" width="500"/>
 </p>
 <h1 align="center">Adrian-MD</h1>
 <p align="center">
-  <a href="https://github.com/AdrianTzy"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Adrian+Multi+Device;Base+AdrianTzy;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/AdrianTzy"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=FARIS+Multi+Device;Base+FARISMODS;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 ---------
 
 # Media Sosial Bot
 <p align="center">
-  <a href="https://wa.me/6282116863163?text=Menu"><img src="https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://wa.me/62838317517490?text=Menu"><img src="https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   <a href="https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10"><img src="https://img.shields.io/badge/WhatsApp%20Grup-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
